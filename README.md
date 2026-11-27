@@ -44,7 +44,6 @@ The dashboard provides insights into sales performance, inventory costs, net pro
 - Sales declined in 2020 and recovered sharply in 2021.
 - Colombia recorded the highest country sales in the dashboard.
 
-## 🖼️ Dashboard Preview
 
 
 ## 🖼️ Dashboard Preview
