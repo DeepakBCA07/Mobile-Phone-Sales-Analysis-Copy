@@ -46,14 +46,17 @@ The dashboard provides insights into sales performance, inventory costs, net pro
 
 ## 🖼️ Dashboard Preview
 
+
+## 🖼️ Dashboard Preview
+
 ### Sales Overview
-![Sales Overview](mobile-sales-overview.png)
+![Sales Overview](1st_page_final_power_bi_project.jpeg)
 
 ### Seasonal Analysis
-![Seasonal Analysis](mobile-sales-analysis.png)
+![Seasonal Analysis](2nd_page_final_power_bi_project.jpeg)
 
 ### Sales Forecast & Business Insights
-![Sales Forecast](mobile-sales-forecast.png)
+![Sales Forecast](3rd_page_final_power_bi_project.jpeg)
 
 ## 📁 Project Files
 - Power BI dashboard (.pbix)
